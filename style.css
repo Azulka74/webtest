@@ -373,3 +373,380 @@
   width: 32px;
   height: 32px;
 }
+/* Original CSS code should be injected here */
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.frame .group {
+  position: relative;
+  width: 1924px;
+  height: 1080px;
+  margin-right: -4.00px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+.frame .img {
+  position: absolute;
+  top: 124px;
+  left: 185px;
+  width: 1565px;
+  height: 277px;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  top: 713px;
+  left: 181px;
+  width: 1565px;
+  height: 294px;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  top: 142px;
+  left: 28px;
+  width: 60px;
+  height: 785px;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  top: 32px;
+  left: 479px;
+  width: 976px;
+  height: 60px;
+}
+
+.frame .group-2 {
+  position: absolute;
+  top: 352px;
+  left: 575px;
+  width: 785px;
+  height: 33px;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  top: 162px;
+  left: 226px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 211px;
+  left: 439px;
+  width: 494px;
+  font-family: "Gothic A1-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .div {
+  position: absolute;
+  top: 433px;
+  left: 185px;
+  width: 1583px;
+  height: 248px;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1565px;
+  height: 248px;
+  background-color: #313131;
+  border-radius: 15px;
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  top: 54px;
+  left: 17px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  top: 54px;
+  left: 177px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  top: 54px;
+  left: 337px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  top: 54px;
+  left: 497px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  top: 54px;
+  left: 657px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  top: 54px;
+  left: 817px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-13 {
+  position: absolute;
+  top: 54px;
+  left: 977px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .rectangle-14 {
+  position: absolute;
+  top: 54px;
+  left: 1137px;
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 15px;
+  left: 16px;
+  width: 388px;
+  font-family: "Gothic A1-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 199px;
+  left: 17px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 199px;
+  left: 177px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: 199px;
+  left: 337px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: 199px;
+  left: 497px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  top: 199px;
+  left: 657px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 199px;
+  left: 817px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  top: 199px;
+  left: 977px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  top: 199px;
+  left: 1137px;
+  width: 145px;
+  font-family: "Heebo-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .jzolk {
+  position: absolute;
+  top: 283px;
+  left: 441px;
+  width: 143px;
+  height: 27px;
+}
+
+.frame .ellipse {
+  left: 323px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-2 {
+  left: 483px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-3 {
+  left: 643px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-4 {
+  left: 803px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-5 {
+  left: 963px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-6 {
+  left: 1123px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-7 {
+  left: 1283px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
+
+.frame .ellipse-8 {
+  left: 1443px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+  height: 32px;
+}
