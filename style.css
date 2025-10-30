@@ -1,0 +1,162 @@
+.frame {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+}
+
+.frame .group {
+  height: 1080px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 1924px;
+}
+
+.frame .rectangle {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.frame .img {
+  height: 277px;
+  left: 185px;
+  position: absolute;
+  top: 124px;
+  width: 1565px;
+}
+
+.frame .rectangle-2 {
+  height: 294px;
+  left: 181px;
+  position: absolute;
+  top: 713px;
+  width: 1565px;
+}
+
+.frame .rectangle-3 {
+  height: 785px;
+  left: 28px;
+  position: absolute;
+  top: 142px;
+  width: 60px;
+}
+
+.frame .rectangle-4 {
+  height: 60px;
+  left: 479px;
+  position: absolute;
+  top: 32px;
+  width: 976px;
+}
+
+.frame .group-2 {
+  height: 33px;
+  left: 575px;
+  position: absolute;
+  top: 352px;
+  width: 785px;
+}
+
+.frame .rectangle-5 {
+  height: 200px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 162px;
+  width: 200px;
+}
+
+.frame .narapidana {
+  height: 67px;
+  left: 444px;
+  position: absolute;
+  top: 218px;
+  width: 351px;
+}
+
+.frame .group-3 {
+  height: 248px;
+  left: 185px;
+  position: absolute;
+  top: 433px;
+  width: 1565px;
+}
+
+.frame .jzolk {
+  height: 27px;
+  left: 441px;
+  position: absolute;
+  top: 283px;
+  width: 143px;
+}
+
+.frame .ellipse {
+  height: 32px;
+  left: 323px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-2 {
+  height: 32px;
+  left: 483px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-3 {
+  height: 32px;
+  left: 643px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-4 {
+  height: 32px;
+  left: 803px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-5 {
+  height: 32px;
+  left: 963px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-6 {
+  height: 32px;
+  left: 1123px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-7 {
+  height: 32px;
+  left: 1283px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
+
+.frame .ellipse-8 {
+  height: 32px;
+  left: 1443px;
+  position: absolute;
+  top: 606px;
+  width: 32px;
+}
